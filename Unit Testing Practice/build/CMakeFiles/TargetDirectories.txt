@@ -1,0 +1,9 @@
+/home/bryson/MyProject/build/CMakeFiles/edit_cache.dir
+/home/bryson/MyProject/build/CMakeFiles/rebuild_cache.dir
+/home/bryson/MyProject/build/src/CMakeFiles/my_functions.dir
+/home/bryson/MyProject/build/src/CMakeFiles/main.dir
+/home/bryson/MyProject/build/src/CMakeFiles/edit_cache.dir
+/home/bryson/MyProject/build/src/CMakeFiles/rebuild_cache.dir
+/home/bryson/MyProject/build/tests/CMakeFiles/test_my_functions.dir
+/home/bryson/MyProject/build/tests/CMakeFiles/edit_cache.dir
+/home/bryson/MyProject/build/tests/CMakeFiles/rebuild_cache.dir
